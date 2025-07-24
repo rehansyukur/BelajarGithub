@@ -1,1 +1,2 @@
 # BelajarGithub
+syukur ganteng
